@@ -14,7 +14,7 @@ Tecnologias
 -SQLite 
 
 # 1. Clone o repositório e entre na pasta
-git clone https:
+git clone https://github.com/gabriel-dickson-dev/api-atletas-fastapi
 cd SEU_REPOSITORIO
 
 # 2. Crie e ative um ambiente virtual
